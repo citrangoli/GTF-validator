@@ -1,0 +1,10 @@
+ENm006	VEGA_Known	exon	717f83	71788	.	-	.	transcript_id "U52112.4-005"; gene_id "ARHGAP4";
+ENm006	VEGA_Known	CDS	71783	71788	.	-	0	transcript_id "U52112.4-005"; gene_id "ARHGAP4";
+ENm006	VEGA_Known	exon	70312	70440	.	-	.	transcript_id "U52112.4-005"; gene_id "ARHGAP4";
+ENm006	VEGA_Known	CDS	70312	70440	.	-	0	transcript_id "U52112.4-005"; gene_id "ARHGAP4";
+ENm006	VEGA_Known	exon	69989	70210	.	-	.	transcript_id "U52112.4-005"; gene_id "ARHGAP4";
+ENm006	VEGA_Known	CDS	69989	70210	.	-	0	transcript_id "U52112.4-005"; gene_id "ARHGAP4";
+ENm006	VEGA_Known	exon	64935	65036	.	-	.	transcript_id "U52112.4-005"; gene_id "ARHGAP4";
+ENm006	VEGA_Known	CDS	64935	65036	.	-	0	transcript_id "U52112.4-005"; gene_id "ARHGAP4";
+ENm006	VEGA_Known	start_codon	64566	64673	.	-	0	transcript_id "U52112.4-005"; gene_id "ARHGAP4";
+ENm006	VEGA_Known	stop_codon	64566	64673	.	-	0	transcript_id "U52112.4-005"; gene_id "ARHGAP4";
